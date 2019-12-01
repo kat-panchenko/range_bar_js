@@ -1,1 +1,1 @@
-#Range-bar on  Vanilla JS
+## Range-bar on Vanilla JS
