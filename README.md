@@ -1,2 +1,1 @@
-# range_bar_js
-Range-bar on JavaScript
+#Range-bar on  Vanilla JS
